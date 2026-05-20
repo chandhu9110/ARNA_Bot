@@ -1,0 +1,16 @@
+pandas
+numpy == 1.26.4
+pytest
+langchain_community
+sentence_transformers
+dotenv
+pypdf
+faiss-cpu
+tensorflow-cpu==2.15.0
+joblib
+google-generativeai>=0.8.0
+fastapi
+uvicorn
+python-multipart
+Pillow
+# onnxruntime
