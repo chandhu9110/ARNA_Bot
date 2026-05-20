@@ -1,0 +1,8 @@
+CICD 
+Backend/.env
+.pytest_cache
+*.pyc
+.ipynb_checkpoints/
+node_modules/
+build/
+dist/
